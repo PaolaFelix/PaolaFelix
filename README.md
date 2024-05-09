@@ -1,10 +1,11 @@
-<alt="👋 Hi, I'm Paola">
 
-<h3 align="center">I'm a sixth-semester Computer Science student from Mexico. I have a keen interest in web development and enjoy exploring its various aspects.</h3>
+<h1 align="center">Hi, I'm Paola</h1>
+
+<h3 align="center">I'm a fullstack developer currently in sixth semester of Computer Science.</h3>
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,python,cpp,github,docker,figma,html,css,java,js,mysql,nodejs,postman,py,react,npm,selenium,spring," />
+    <img src="https://skillicons.dev/icons?i=javascript,python,cpp,github,docker,figma,html,css,java,mysql,nodejs,postman,py,react,npm,selenium,spring," />
 </p>
 
 <!--
