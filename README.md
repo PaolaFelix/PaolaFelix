@@ -8,6 +8,9 @@
     <img src="https://skillicons.dev/icons?i=javascript,python,cpp,github,docker,figma,html,css,java,mysql,nodejs,postman,py,react,npm,selenium,spring," />
 </p>
 
+![PaolaFelix's Stats](https://github-readme-stats.vercel.app/api?username=PaolaFelix&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+
+
 <!--
 **PaolaFelix/PaolaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
