@@ -11,6 +11,18 @@
 
 ![PaolaFelix's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaFelix&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+    <a href="www.linkedin.com/in/paolafelixtorres">
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="mailto:pfelixtorres@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+
+</p>
+
 <h3 align="center">Currently Working On:</h3>
 
 <p align="center">🤖 I'm currently working on an Oracle Java bot, a full stack Cloud Native application with a React JS frontend and various backends (Java, Python, DotNet, and so on) on the Oracle Cloud Infrastructure.</p>
