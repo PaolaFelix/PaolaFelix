@@ -1,4 +1,11 @@
-### Hi there 👋
+<alt="👋 Hi, I'm Paola">
+
+<h3 align="center">I'm a sixth-semester Computer Science student from Mexico. I have a keen interest in web development and enjoy exploring its various aspects.</h3>
+
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,python,cplusplus,github,docker,figma,html,css,java,js,mysql,nodejs,postman,py,react,npm,selenium,spring," />
+</p>
 
 <!--
 **PaolaFelix/PaolaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
