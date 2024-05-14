@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,python,cpp,github,docker,figma,html,css,java,mysql,nodejs,postman,react,npm,selenium,spring,zap" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,cpp,github,docker,figma,html,css,java,mysql,nodejs,postman,react,npm,selenium,spring,xd" />
 </p>
 
 
