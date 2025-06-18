@@ -14,7 +14,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-    <a href="www.linkedin.com/in/paolafelixtorres">
+    <a href="https://www.linkedin.com/in/paolafelixtorres/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
     <a href="mailto:pfelixtorres@gmail.com">
