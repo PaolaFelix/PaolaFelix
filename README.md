@@ -23,17 +23,6 @@
 
 </p>
 
-<h3 align="center">Currently Working On:</h3>
-
-<p align="center">🤖 I'm currently working on an Oracle Java bot, a full stack Cloud Native application with a React JS frontend and various backends (Java, Python, DotNet, and so on) on the Oracle Cloud Infrastructure.</p>
-
-<h3 align="center">Check out the project:</h3>
-
-<p align="center">
-    <a href="https://github.com/BoJavs-svg/OracleJavaBot25">
-        <img src="https://img.shields.io/badge/Repository-Check it out-blueviolet?style=for-the-badge" alt="Check it out" />
-    </a>
-</p>
 <!--
 **PaolaFelix/PaolaFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
