@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Paola</h1>
 
-<h3 align="center">I'm a fullstack developer currently in sixth semester of Computer Science.</h3>
+<h3 align="center">Fullstack developer and AI enthusiast. Computer Science graduate building intelligent applications.</h3>
 
 
 <p align="center">
